@@ -34,6 +34,8 @@ O que é REST
       4.2) HTTP Verbs: Os verbos http vão ditar o tipo de atividade que estamos fazendo nos recursos. Por exemplo, o GET simplesmente solicita dados, uma lista de objetos ou um objeto específico.
       4.3) HATEOUS: Basicamente tudo o que isso significa é ue, em cada solicitação será um conjunto de hiperlinks que você pode usar para navegar na API.
 
+      HATEOUS: Hypermedia
+
 Instalação do node
   npm init
   packages(node_modules)
