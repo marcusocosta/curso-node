@@ -1,0 +1,23 @@
+Packages
+  Express
+  Tv4
+  Morgan
+  Winston
+  Mongo
+  BodyParser
+  Mocha
+  Gulp
+  Chai
+  async
+  request
+  nconf
+  passport
+  moment
+  fast-json-patch
+  bluebird
+  rewire
+  json-schema-faker
+  jshint
+  chance
+  nock
+  supertest
