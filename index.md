@@ -25,7 +25,7 @@ Packages
 
 O que é REST
   Interação cliente - servidor
-  Restrições: 
+  Restrições:
     1) Client Server: cliente envia um pedido para o servidor, o servidor por sua vez envia uma resposta para o cliente.
     2) Statelles Server: à medida que a carga aumenta a partir do cliente sobre o servidor temos que escalar nossos servidores para conseguir responder as requisições em tempo ábil. Nesta situação cada servidor que for escalado deve ter condições de responder as solicitação de clientes. Cada requisição do cliente precisa conter todas as informações necesárias para que qualquer server tenha condição de responder a requisição.
     3) Caching: Existe informações que não mudam frequentemente em nossa aplicação (cadastro de cliente, autores). Esta restrição diz que o cliente deve saber quanto tempo esses dados devem ser mantidos em cache antes de serem solicitados novamente ao servidor.
@@ -43,6 +43,10 @@ Instalação do node
 
 Nodemon
 Gulp
+
+callback
+async
+promisses
 
 
 Node e express
